@@ -1,5 +1,5 @@
 # Rainbow Grid
-A grid with pretty little colours.
+An animated grid with pretty little colours.
 
 ![Rainbow grid screenshot](img/grid.png)
 
